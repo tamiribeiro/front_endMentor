@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Frontend Mentor Challenges | Tami Ribeiro
+---
+Hi there! 🖐🏻 Here I'm going to upload my [Frontend Mentor](https://www.frontendmentor.io/challenges) challenges solutions and follow my own development during the process.
+Here are the projects I intend to solve/already solved. 💪🏻
+*click on the link to see my solution*
 
-You can use the [editor on GitHub](https://github.com/tamiribeiro/front_endMentor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+| Newbie                                                                                        | Junior | Intermediate | Advanced |
+|-----------------------------------------------------------------------------------------------|----------------|----------------------|------------------|
+|[NFT card component](https://tamiribeiro.github.io/front_endMentor/nft-preview-card-component/)|Time tracking dashboard|Space tourism multi-page website|Rock, Paper, Scissors game|
+|Order summary component|Tip calculator app|Interactive comments section|REST Countries API|
+|Stats preview card component|Sunnyside agency|E-commerce product page|
+|3-column preview card component|Blogr landing page|Calculator app|
+|Profile card component|Crowdfunding product page|Launch countdown|
+|FAQ accordion card|Interactive pricing|Todo app|
+|Social proof section|Loopstudios|Room homepage|
+|Article preview component|Testimonials grid|IP address tracker|
+|Four card feature section|Fylo data storage|Chat app CSS illustration|
+|Base apperel coming soon page|Coding bootcamp|Job listing with filtering|
+|Intro component with sign-up for|Social media dashboard|Easybank|
+|Single price grid component|Insure landing page|Menage landing page|
+|Ping single column coming soon page|Pricing component|URL shortning API|
+|Huddle landing page|Project tracking|Bookmark|
+| |Clipboard|
+| |Huddle landing page with alternating feat blocks|
+| |Fylo dark theme|
+| |Fylo landing page two column|
+| |Huddle landing page curved sections|
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tamiribeiro/front_endMentor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![GitHub language count](https://img.shields.io/github/languages/count/tamiribeiro/front_endMentor?color=pink&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/tamiribeiro/front_endMentor?color=blueviolet&style=flat-square)
