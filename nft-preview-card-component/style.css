@@ -54,7 +54,7 @@ body {
 }
 
 .overlay {
-  background: var(--primary-cyan);
+  background: hsl(178, 100%, 50%, 60%);
   border-radius: 10px;
   margin: 0 auto;
   width: 100%;
@@ -67,7 +67,7 @@ body {
 }
 
 .overlay:hover {
-  opacity: .3;
+  opacity: 1;
   transition: .6s ease;
 }
 
@@ -75,6 +75,8 @@ body {
   width: 15%;
   display: flex;
   margin: 40% auto;
+
+  box-shadow: none;
 } 
 
 .nft_name {
@@ -149,7 +151,6 @@ body {
 
 .creator_name span {
   color: var(--primary-softblue);
-  opacity: .8;
 }
 
 .creator_name span:hover {
