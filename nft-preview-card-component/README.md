@@ -30,12 +30,14 @@ Users should be able to:
 
 ![](./assets/nft-card.gif)
 
+### Links
+
+- [My solution at Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-lOH0rncEQ)
+
 ## 👩🏻‍💻 My process
 
 - I started by rearranging my `index.html` file, adding semantic tags and visualizing the layout. I had the box-model concept in mind all along, and I thought I was organizing boxes inside of boxes.
-- When I was satisfied with the organization, I moved on to styling with `css`. I started by organizing global variables and then I began styling box by box, until I had the complete layout and finished with the interactivity (hover property) and details.
-
-
+- When I was satisfied with the organization, I moved on to styling with `css`. I started by organizing global variables and then I began styling box by box, until I had the complete layout and finished with the interactivity (hover property) and responsivity.
 
 ### 💻 Built with
 
