@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [My solution at Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-html-css-58Uu4PuKI)
 
 ## 👩🏻‍💻 My process
 

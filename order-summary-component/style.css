@@ -22,7 +22,7 @@ body {
 
 /* === CARD === */
 .card {
-  margin: 50px auto;
+  margin: 100px auto;
   background-color: #fff;
   max-width: 375px;
   border-radius: 16px;
@@ -63,7 +63,7 @@ body {
   border-radius: 12px;
 }
 
-.plan span p {
+.plan_info {
   margin-left: -40px;
 }
 
