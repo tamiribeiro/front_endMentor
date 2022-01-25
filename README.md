@@ -7,7 +7,7 @@ Here are the projects I intend to solve/already solved. 💪🏻
 | Newbie                                                                                        | Junior | Intermediate | Advanced |
 |-----------------------------------------------------------------------------------------------|----------------|----------------------|------------------|
 |[NFT card component](https://tamiribeiro.github.io/front_endMentor/nft-preview-card-component/)|Time tracking dashboard|Space tourism multi-page website|Rock, Paper, Scissors game|
-|Order summary component|Tip calculator app|Interactive comments section|REST Countries API|
+|[Order summary component](https://tamiribeiro.github.io/front_endMentor/order-summary-component/)|Tip calculator app|Interactive comments section|REST Countries API|
 |Stats preview card component|Sunnyside agency|E-commerce product page|
 |3-column preview card component|Blogr landing page|Calculator app|
 |Profile card component|Crowdfunding product page|Launch countdown|
